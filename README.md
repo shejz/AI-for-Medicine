@@ -1,6 +1,8 @@
 # **AI for Medicine**
 Applying machine learning to concrete problems in medicine. AI is transforming the practice of medicine. It's helping doctors diagnose patients more accurately, make predictions about patients' future health, and recommend better treatments.
 
+**Tasks**:
+
 - Diagnose diseases from x-rays and 3D MRI brain images
 - Predict patient survival rates more accurately using tree-based models
 - Estimate treatment effects on patients using data from randomized trials
