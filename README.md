@@ -1,14 +1,14 @@
 # **AI for Medicine**
 Applying machine learning to concrete problems in medicine. AI is transforming the practice of medicine. It's helping doctors diagnose patients more accurately, make predictions about patients' future health, and recommend better treatments.
 
-**Tasks**:
+## **Tasks**:
 
 - Diagnose diseases from x-rays and 3D MRI brain images
 - Predict patient survival rates more accurately using tree-based models
 - Estimate treatment effects on patients using data from randomized trials
 - Automate the task of labeling medical datasets using natural language processing
 
-### **Applied Learning Project**
+## **Applied Learning Project**
 Medicine is one of the fastest-growing and important application areas, with unique challenges like handling missing data. Working with 2D and 3D medical image data. And then apply tree-based models to improve patient survival estimates. I'll also use data from randomized trials to recommend treatments more suited to individual patients. Also explore how natural language extraction can more efficiently label medical datasets.
 
 
