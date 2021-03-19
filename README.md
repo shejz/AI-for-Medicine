@@ -19,9 +19,9 @@ Medicine is one of the fastest-growing and important application areas, with uni
 - Build an algorithm that will look at a chest X-ray and determine whether it contains disease.
 - Build another algorithm that will look at brain MRIs and identify the location of tumors in those brain MRIs.
 
-1. [Chest X-Ray Medical Diagnosis with Deep Learning]()
-2. [Evaluation of Diagnostic Models]()
-3. [Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)]()
+1. [Chest X-Ray Medical Diagnosis with Deep Learning][![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/AI-for-Medicine/blob/main/AI%20for%20Medical%20Diagnosis/1.%20Chest%20X-Ray%20Medical%20Diagnosis%20with%20Deep%20Learning.ipynb) 
+2. [Evaluation of Diagnostic Models][![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/AI-for-Medicine/blob/main/AI%20for%20Medical%20Diagnosis/2.%20Evaluation%20of%20Diagnostic%20Models.ipynb)
+3. [Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)][![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/AI-for-Medicine/blob/main/AI%20for%20Medical%20Diagnosis/3.%20Brain%20Tumor%20Auto-Segmentation%20for%20Magnetic%20Resonance%20Imaging%20%28MRI%29.ipynb)
 
 
 
