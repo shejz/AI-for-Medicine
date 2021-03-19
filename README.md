@@ -12,7 +12,7 @@ Applying machine learning to concrete problems in medicine. AI is transforming t
 Medicine is one of the fastest-growing and important application areas, with unique challenges like handling missing data. Working with 2D and 3D medical image data. And then apply tree-based models to improve patient survival estimates. I'll also use data from randomized trials to recommend treatments more suited to individual patients. Also explore how natural language extraction can more efficiently label medical datasets.
 
 
-### [AI for Medical Diagnosis]()
+### [AI for Medical Diagnosis](https://github.com/shejz/AI-for-Medicine/tree/main/AI%20for%20Medical%20Diagnosis)
 
 **Diagnosis** is about identifying disease.
 
