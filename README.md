@@ -38,6 +38,9 @@ Decision trees to model non-linear relationships, which are commonly observed in
 ### [AI For Medical Treatment]()
 Medical treatment may impact patients differently based on their existing health conditions. In this third project, I'll **recommend treatments** more suited to individual patients using data from **randomized control trials**. And apply **machine learning interpretation** methods to explain the decision-making of complex machine learning models. Finally, Using **natural language entity extraction** and question-answering methods to automate the task of labeling medical datasets.
 
-- Building a treatment effect predictor, apply model interpretation techniques and use natural language processing to extract information from radiology reports.
+Building a treatment effect predictor, apply model interpretation techniques and use natural language processing to extract information from radiology reports.
+1. [Estimating Treatment Effect Using Machine Learning](https://github.com/shejz/AI-for-Medicine/blob/main/AI%20For%20Medical%20Treatment/1.%20Estimating%20Treatment%20Effect%20Using%20Machine%20Learning.ipynb)
+2. [Natural Language Entity Extraction](https://github.com/shejz/AI-for-Medicine/blob/main/AI%20For%20Medical%20Treatment/2.%20Natural%20Language%20Entity%20Extraction.ipynb)
+3. [ML Interpretation](https://github.com/shejz/AI-for-Medicine/blob/main/AI%20For%20Medical%20Treatment/3.%20ML%20Interpretation.ipynb)
 
 
