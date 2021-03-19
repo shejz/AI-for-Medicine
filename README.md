@@ -14,11 +14,19 @@ Medicine is one of the fastest-growing and important application areas, with uni
 
 ### [AI for Medical Diagnosis]()
 
-- Create convolutional neural network image classification and segmentation models to make diagnoses of lung and brain disorders. 
+**Diagnosis** is about identifying disease.
+
+- Build an algorithm that will look at a chest X-ray and determine whether it contains disease.
+- Build another algorithm that will look at brain MRIs and identify the location of tumors in those brain MRIs.
+
+1. [Chest X-Ray Medical Diagnosis with Deep Learning]()
+2. [Evaluation of Diagnostic Models]()
+3. [Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)]()
+
 
 
 ### [AI for Medical Prognosis]()
-Machine learning is a powerful tool for prognosis, a branch of medicine that specializes in predicting the future health of patients. This project focuses on **tree-based machine learning**, so a foundation in deep learning is not required for this. 
+Machine learning is a powerful tool for **prognosis**, a branch of medicine that specializes in **predicting the future health of patients**. This project focuses on **tree-based machine learning**, so a foundation in deep learning is not required for this. 
 
 - Building risk models and survival estimators for heart disease using statistical methods and a random forest predictor to determine patient prognosis. 
 
