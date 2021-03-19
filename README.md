@@ -43,4 +43,8 @@ Building a treatment effect predictor, apply model interpretation techniques and
 2. [Natural Language Entity Extraction](https://github.com/shejz/AI-for-Medicine/blob/main/AI%20For%20Medical%20Treatment/2.%20Natural%20Language%20Entity%20Extraction.ipynb)
 3. [ML Interpretation](https://github.com/shejz/AI-for-Medicine/blob/main/AI%20For%20Medical%20Treatment/3.%20ML%20Interpretation.ipynb)
 
-
+## **Challenges**
+- Class Imbalance
+  - Weighted Loss/ Resampling
+- Multi-Label Loss
+- Transfer Learning + Data Augmentation
